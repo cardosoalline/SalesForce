@@ -1,0 +1,9 @@
+${Resource.msg('label.item', 'product', null)}
+<span class="product-id">${product.id}</span>
+
+<div style="background:red"> 
+                <isif condition="${pdict.product.teste}">
+                        <isinclude  template="product/maiorIdadeDetais"/>
+                </isif> 
+</div>
+

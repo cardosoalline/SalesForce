@@ -1,0 +1,9 @@
+
+  <div>
+    
+      
+         ${Resource.msg('idade.maior', 'idadeMaior', null)}
+    
+    </div>
+
+

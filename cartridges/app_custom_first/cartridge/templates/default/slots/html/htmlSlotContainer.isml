@@ -1,0 +1,7 @@
+<div>
+<h1>Vamos lá</h1>
+    
+
+    <isinclude template="slots/htmlSlotContainer"/>
+
+</div>
